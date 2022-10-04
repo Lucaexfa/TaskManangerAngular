@@ -1,0 +1,17 @@
+footer{
+    margin-top: 40px;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    padding: 10px
+}
+
+a{ text-decoration: none;
+    color: whitesmoke;
+}
+
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: rgb(197, 148, 226)
+    
+}
